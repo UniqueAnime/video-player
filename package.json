@@ -1,5 +1,4 @@
 {
-  "name": "anime-streaming-site",
   "version": "1.0.0",
   "description": "A Next.js site for streaming anime episodes.",
   "main": "index.js",
