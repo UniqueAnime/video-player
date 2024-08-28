@@ -1,0 +1,29 @@
+{
+  "name": "anime-streaming-site",
+  "version": "1.0.0",
+  "description": "A Next.js site for streaming anime episodes.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^13.4.0", // Adjust to the latest stable version if needed
+    "react": "^18.2.0", // Adjust to the latest stable version if needed
+    "react-dom": "^18.2.0", // Adjust to the latest stable version if needed
+    "plyr": "^3.7.4" // Adjust to the latest stable version if needed
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0", // Adjust to the latest stable version if needed
+    "eslint-config-next": "^13.4.0" // Adjust to the latest stable version if needed
+  },
+  "keywords": [
+    "nextjs",
+    "anime",
+    "streaming"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
